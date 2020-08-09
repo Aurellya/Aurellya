@@ -3,13 +3,12 @@
   <br>
   <br>
   <samp>Hello there. I'm <a href="https://github.com/Aurellya#">Aurellya</a>.<br> I'm a a Computer Science student.<br><br></samp>
-  <img alt="Python" width="30px" src="logo/python.png" /> &nbsp;
-  <img alt="Java" width="30px" src="logo/java.png" /> &nbsp;
-  <img alt="Javascript" width="30px" src="logo/js.png" /> &nbsp;
-  <img alt="mysql" width="50px" src="logo/mysql.png" /> &nbsp;
-  <img alt="git" width="30px" src="logo/git.png" /> &nbsp;
-  <img alt="github" width="30px" src="logo/github.png" /> 
-  
+  <img alt="Python" width="30px" src="https://user-images.githubusercontent.com/58356073/89732237-f5eeef80-da7f-11ea-9819-a2ee0272d9b5.png" /> &nbsp;
+  <img alt="Java" width="30px" src="https://user-images.githubusercontent.com/58356073/89732314-7d3c6300-da80-11ea-88a8-ff136ef907c2.png" /> &nbsp;
+  <img alt="Javascript" width="30px" src="https://user-images.githubusercontent.com/58356073/89732318-8b8a7f00-da80-11ea-89ad-94bbeae54e75.png" /> &nbsp;
+  <img alt="mysql" width="50px" src="https://user-images.githubusercontent.com/58356073/89732328-98a76e00-da80-11ea-8890-45c5eddcee3f.png" /> &nbsp;
+  <img alt="git" width="30px" src="https://user-images.githubusercontent.com/58356073/89732338-ad840180-da80-11ea-9e62-8c20ec5290c3.png" /> &nbsp;
+  <img alt="github" width="30px" src="https://user-images.githubusercontent.com/58356073/89732334-a3620300-da80-11ea-8f8b-1614f1780bc7.png" /> 
   <br>
   <br>
   <br>
