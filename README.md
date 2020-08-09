@@ -7,7 +7,7 @@
   <img alt="Java" width="30px" src="logo/java.png" /> &nbsp;
   <img alt="Javascript" width="30px" src="logo/js.png" /> &nbsp;
   <img alt="mysql" width="50px" src="logo/mysql.png" /> &nbsp;
-  <img alt="git" width="30px" src="logo/git.png" /> &nbsp;
+  <img alt="git" width="30px" src="Aurellya/logo/git.png" /> &nbsp;
   <img alt="github" width="30px" src="logo/github.png" /> 
   
   <br>
