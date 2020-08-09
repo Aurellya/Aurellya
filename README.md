@@ -2,7 +2,7 @@
   <br>
   <br>
   <br>
-  <samp>Hello there. I'm <a href="#">Aurellya</a>.<br> I'm a a Computer Science student.<br><br></samp>
+  <samp>Hello there. I'm <a href="https://github.com/Aurellya#">Aurellya</a>.<br> I'm a a Computer Science student.<br><br></samp>
   <img alt="Python" width="30px" src="logo/python.png" /> &nbsp;
   <img alt="Java" width="30px" src="logo/java.png" /> &nbsp;
   <img alt="Javascript" width="30px" src="logo/js.png" /> &nbsp;
