@@ -12,9 +12,9 @@
   <br>
   <br>
   <br>
-  <a href="http://www.lowgif.com/be83dd67333eefab.html" target="_blank"><img width="350" src="http://cdn.lowgif.com/full/be83dd67333eefab-gifs-transparent-background-11-background-check-all.gif" border="0" alt="gifs"/></a>
-</p>
-
+<!--   <a href="http://www.lowgif.com/be83dd67333eefab.html" target="_blank"><img width="350" src="http://cdn.lowgif.com/full/be83dd67333eefab-gifs-transparent-background-11-background-check-all.gif" border="0" alt="gifs"/></a> -->
+  <a href="https://giphy.com/stickers/party-fiesta-partee-YzNaAyWhSMlZw49wI7" target="_blank"><img width="350" src="https://media1.giphy.com/media/YzNaAyWhSMlZw49wI7/giphy.gif?cid=ecf05e47ht8mkecpxp3a440qib1rzet4q1q9g1wg13pzkzxg&rid=giphy.gif&ct=s" border="0" alt="gifs"/></a>
+  
 ------------
 <div align="center">
   
