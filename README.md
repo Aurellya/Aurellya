@@ -2,7 +2,7 @@
   <br>
   <br>
   <br>
-  <samp>✌🏻😁 &nbsp;Hi there. I'm <a href="https://github.com/Aurellya">Aurellya</a>.<br> I'm a Computer Science Student.<br><br></samp>
+  <samp>✌🏻😁 &nbsp;Hi there. I'm <a href="https://github.com/Aurellya">Aurellya</a>.<br> I'm a Software Engineer.<br><br></samp>
   <img alt="Python" width="30px" src="https://user-images.githubusercontent.com/58356073/89732237-f5eeef80-da7f-11ea-9819-a2ee0272d9b5.png" /> &nbsp;
   <img alt="Java" width="30px" src="https://user-images.githubusercontent.com/58356073/89732314-7d3c6300-da80-11ea-88a8-ff136ef907c2.png" /> &nbsp;
   <img alt="Javascript" width="30px" src="https://user-images.githubusercontent.com/58356073/89732318-8b8a7f00-da80-11ea-89ad-94bbeae54e75.png" /> &nbsp;
