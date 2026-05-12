@@ -22,7 +22,7 @@
 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:caurellyagho25@gmail.com)](mailto:aurellyagho25@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aurellyagoh/)](https://www.linkedin.com/in/aurellyagoh/)
-[![Instagram](https://img.shields.io/badge/-Instagram-lightgrey?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/aurellyagoh25/)](https://www.instagram.com/aurellyagoh25/)
+[![Personal Web Badge](https://img.shields.io/badge/-Website-lightgrey?style=flat-square&logo=Gatsby&logoColor=white&link=https://aurellyagoh.com/)](https://aurellyagoh.com/)
 
 </div>
 
