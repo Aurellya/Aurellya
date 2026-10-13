@@ -2,13 +2,14 @@
   <br>
   <br>
   <br>
-  <samp>✌🏻😁 &nbsp;Hi there. I'm <a href="https://github.com/Aurellya">Aurellya</a>.<br> I'm a Software Engineer.<br><br></samp>
+  <samp>✌🏻😁 &nbsp;Hi there. I'm <a href="https://github.com/Aurellya">Aurellya</a>.<br><br>Software Engineer (Ex-CRUD dev)<br>Climbing down the abstraction ladder<br>Installing new knowledge... 38%<br><br></samp>
   <img alt="Python" width="30px" src="https://user-images.githubusercontent.com/58356073/89732237-f5eeef80-da7f-11ea-9819-a2ee0272d9b5.png" /> &nbsp;
   <img alt="Java" width="30px" src="https://user-images.githubusercontent.com/58356073/89732314-7d3c6300-da80-11ea-88a8-ff136ef907c2.png" /> &nbsp;
   <img alt="Javascript" width="30px" src="https://user-images.githubusercontent.com/58356073/89732318-8b8a7f00-da80-11ea-89ad-94bbeae54e75.png" /> &nbsp;
+  <img alt="postgres" width="30px" src="https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/3840px-Postgresql_elephant.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail" />
+  &nbsp;
   <img alt="mysql" width="50px" src="https://user-images.githubusercontent.com/58356073/89732328-98a76e00-da80-11ea-8890-45c5eddcee3f.png" /> &nbsp;
-  <img alt="git" width="30px" src="https://user-images.githubusercontent.com/58356073/89732338-ad840180-da80-11ea-9e62-8c20ec5290c3.png" /> &nbsp;
-  <img alt="github" width="30px" src="https://user-images.githubusercontent.com/58356073/89732334-a3620300-da80-11ea-8f8b-1614f1780bc7.png" /> 
+    <img alt="git" width="30px" src="https://user-images.githubusercontent.com/58356073/89732338-ad840180-da80-11ea-9e62-8c20ec5290c3.png" /> &nbsp;
   <br>
   <br>
   <br>
@@ -22,7 +23,7 @@
 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:caurellyagho25@gmail.com)](mailto:aurellyagho25@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aurellyagoh/)](https://www.linkedin.com/in/aurellyagoh/)
-[![Personal Web Badge](https://img.shields.io/badge/-Website-lightgrey?style=flat-square&logo=Gatsby&logoColor=white&link=https://aurellyagoh.com/)](https://aurellyagoh.com/)
+[![Personal Web Badge](https://img.shields.io/badge/-Website-%23252a33?style=flat-square&logo=Astro&logoColor=white&link=https://aurellyagoh.com/)](https://aurellyagoh.com/)
 
 </div>
 
